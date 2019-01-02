@@ -4,6 +4,13 @@
   "description": "Promisify `speechSynthesis.speak`",
   "main": "index.js",
   "author": "@realdennis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realdennis/speak-promise.git"
+  },
+  "keywords": [
+    "speechSynthesis","speak","promise","SpeechSynthesisUtterance"
+  ],
   "license": "MIT",
   "private": false
 }
