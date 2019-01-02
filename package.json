@@ -1,0 +1,9 @@
+{
+  "name": "speak-promise",
+  "version": "1.0.0",
+  "description": "Promisify `speechSynthesis.speak`",
+  "main": "index.js",
+  "author": "@realdennis",
+  "license": "MIT",
+  "private": false
+}
